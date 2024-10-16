@@ -12,7 +12,7 @@ from src.helpers.API_requests_wrapper import post_request
 from src.constants.api_constants import APIConstants
 from src.helpers.payload_manager import payload_create_booking
 from src.helpers.common_verifications import *
-from src.utils.utility import Utils
+from src.utils.utility import *
 import logging
 
 
