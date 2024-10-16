@@ -1,7 +1,7 @@
-# Conftest
+#Conftest
 
 # Create Token
-# Create Booking Id
+# Create BookingId
 # Update the Booking(Put) - BookingID, Token
 # Delete the Booking
 
